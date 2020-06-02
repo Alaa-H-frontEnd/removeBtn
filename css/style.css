@@ -1,0 +1,46 @@
+.container{
+    border: 1px solid green;
+    border-radius: 20px;
+}
+
+
+
+/* *{
+    scroll-behavior: smooth;
+}
+
+.navcustom{
+    width: 100%;
+    height: 100px;
+    background-color: gray;
+    position: fixed;
+}
+.navcustom ul li{
+    list-style-type: none;
+    float: left;
+    padding: 20px;
+}
+.navcustom ul li a{
+  color: white;
+  text-decoration: none;
+}
+
+.navcustom ul li .active{
+    color: red;
+}
+
+section{
+    width: 100%;
+    height: 600px;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+} */
+
+
